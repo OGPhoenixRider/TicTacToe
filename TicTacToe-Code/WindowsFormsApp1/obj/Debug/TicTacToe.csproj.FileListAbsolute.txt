@@ -1,0 +1,10 @@
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tom\Downloads\TicTacToe-Code\TicTacToe-Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
