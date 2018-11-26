@@ -24,7 +24,21 @@ namespace WindowsFormsApp1
             else
                 textBox1.Text = "Current turn: Player 2 (O)";
             textBox2.Text = "Turn Count: " + Convert.ToString(++turnCnt);
+            card.Enabled = false;
         }
+
+        public void  checkDraw()
+        {
+            if (turnCnt==17)
+            {
+                MessageBox.Show("The game resulted in a draw! /nYou must both be good players! /nDo you want to submit your score?", "Draw!", MessageBoxButtons.YesNo);
+                if (DialogResult==DialogResult.No)
+                {
+                    Form1_Load();
+                }
+            }
+        }
+
         public void checkWin()
         {
 
@@ -135,7 +149,7 @@ namespace WindowsFormsApp1
             card card15 = new card(1, 3, button15);
             card card16 = new card(1, 4, button16);
             button1.Text = button2.Text = button3.Text = button4.Text = button5.Text = button6.Text = button7.Text = button8.Text = button9.Text = button10.Text = button11.Text = button12.Text = button13.Text = button14.Text = button15.Text = button16.Text = "";
-
+            turnCnt = 1;
         }
     }
 }
